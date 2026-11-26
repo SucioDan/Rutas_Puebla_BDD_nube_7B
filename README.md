@@ -1,6 +1,6 @@
-# 🚌 Rutas Puebla — Sprint 1
+# Rutas Puebla — Sprint 1
 
-API CRUD de **paradas de transporte público de Puebla** construida con **Python +
+API CRUD de paradas de transporte público de Puebla construida con **Python +
 FastAPI + Redis Cloud**, con frontend web (HTML/CSS/JS) y mapa interactivo
 (Leaflet + OpenStreetMap).
 
